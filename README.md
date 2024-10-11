@@ -49,7 +49,7 @@ https://app.powerbi.com/groups/me/reports/ff3f2d50-e3f2-4605-a80b-4c890656bc75/R
 
 # Dashboard Visuals
 
-![Top Performing Players](images/top_performing_players.png)
+![Top Performing Players](Dashboard.png)
 
 
 #  Results and Recommendations
