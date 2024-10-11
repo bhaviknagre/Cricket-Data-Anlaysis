@@ -47,6 +47,11 @@ This project involves a comprehensive analysis of cricket data, utilizing statis
 
 https://app.powerbi.com/groups/me/reports/ff3f2d50-e3f2-4605-a80b-4c890656bc75/ReportSection3a8cb23b814911c94608?experience=power-bi
 
+# Dashboard Visuals
+
+![Top Performing Players](images/top_performing_players.png)
+
+
 #  Results and Recommendations
 
 - Focus on top-performing players to optimize team selection.
